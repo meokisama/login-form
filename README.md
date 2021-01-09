@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center"> Mikutap </h1>
+<h1 align="center"> Creative Login Form </h1>
 <p align="center">
   <a href="https://github.com/meokisama/meokisama.github.io/blob/develop/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
+    <img src="https://img.shields.io/badge/license-UNLICENSE-blue.svg"/>
   </a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
   <a href="https://twitter.com/intent/follow?screen_name=meokiiii">
@@ -16,7 +16,7 @@
 </p>
 
 ## About
-A Vietnamese friendly and independent version extracted from https://aidn.jp/mikutap  
+A collection of some creative login form for your own project...
    
 ## Demo
 
